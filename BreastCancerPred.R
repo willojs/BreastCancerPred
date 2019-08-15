@@ -12,7 +12,7 @@ library(pROC)
 
 
 #Read data in
-data <- read_excel("C:/Users/wojo/Downloads/wisc_bc_data.xlsx")
+data <- read_excel("~/BreastCancerPred/wisc_bc_data.xlsx")
 
 #Converting diagnosis to factor
 data$diagnosis <- as.factor(data$diagnosis)
