@@ -1,11 +1,11 @@
-#Comparative Study of Naive Bayes, KNN and Random Forest for Breast Cancer Prediction.
+# Comparative Study of Naive Bayes, KNN and Random Forest for Breast Cancer Prediction.
 
-#Data Description
+# Data Description
 The Wisconsin Breast Cancer Diagnostic Datasets has a dimension of 569 columns and 32 rows (569 × 32), it has one numeric attribute such as id field and 30 real attributes and a class label, which is one categorical attribute. The dataset has two class
 values for detection and diagnosis they are Benign (B) and Malignant (M) because it is a two class classification problem also known as binary classification. The class attribute is 212 Malignant and 357 Benign as the dataset does not contain any
 missing values. All features values are computed and recorded in four significant digits.
 
-#METHODOLOGY
+# METHODOLOGY
 There are three main steps involved in this
 research work, they include:
 A. Data collection.
