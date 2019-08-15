@@ -25,15 +25,25 @@ C. Developing the model
 The following models were used: Naive Bayes, KNN and Random Forest
 
 # RESULTS
-                 metric best_model     value
+              metric    best_model     value
 1           Sensitivity         RF 0.9523810
+
 2           Specificity        KNN 0.9859155
+
 3        Pos Pred Value        KNN 0.9743590
+
 4        Neg Pred Value         RF 0.9710145
+
 5             Precision        KNN 0.9743590
+
 6                Recall         RF 0.9523810
+
 7                    F1        KNN 0.9382716
+
 8            Prevalence         NB 0.3716814
+
 9        Detection Rate         RF 0.3539823
+
 10 Detection Prevalence         RF 0.3893805
+
 11    Balanced Accuracy         RF 0.9480215
